@@ -1,0 +1,9 @@
+contact:
+    send:
+        prefix_subject: "[PiedWebContact] De "
+        success: 'Message envoyé avec succès'
+    title:  Keep In Touch
+    label: Contact
+    subtitle: Nous répondons habituellement en moins de trois heures.
+    email: Email
+    adress: Adresse

@@ -1,0 +1,27 @@
+{
+    "name": "piedweb/contact-bundle",
+    "type": "symfony-bundle",
+    "description": "Contact Bundle for PiedWebCMS",
+    "keywords": [],
+    "homepage": "https://piedweb.com",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "piedweb/cms-bundle": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "PiedWeb\\ContactBundle\\": "src/"
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Robin D.",
+            "email": "contact@robin-d.fr",
+            "homepage": "https://www.robin-d.fr/"
+        }
+    ]
+}
