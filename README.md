@@ -8,12 +8,10 @@ Add a contact form via fetch (ajax) to your app.
 
 Initially dev to be use with [PiedWeb CMS](https://github.com/PiedWeb/CMS).
 
-<p align="center"><a href="https://piedweb.com">
-<img src="https://raw.githubusercontent.com/PiedWeb/ContactBundle/master/demo.png" alt="demo contact bundle form" />
-</a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/PiedWeb/ContactBundle/master/demo.png" alt="demo contact bundle form" /></p>
 
 * [Installation](#installation)
-    * [Packagist](https://packagist.org/packages/piedweb/cms-bundle)
+    * [Packagist](https://packagist.org/packages/piedweb/contact-bundle)
 * [CookBook](#cookbook)
 * [Todo](#todo)
 * [Contributors](#contributors)
