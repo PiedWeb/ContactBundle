@@ -58,5 +58,3 @@ php-cs-fixer fix src --rules='{"array_syntax": {"syntax": "short"}}' --verbose
 ## License
 
 MIT (see the LICENSE file for details)
-
-/!\ If you use it as it with assets file, it's depending on [piedweb-devoluix-theme](https://github.com/PiedWeb/piedweb-devoluix-theme) wich is not MIT. (see  [todo](#todo) : I plan to release it with a totaly free default theme)
